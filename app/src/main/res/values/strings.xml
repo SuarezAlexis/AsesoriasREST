@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsesoriasREST</string>
+    <string name="rest_url">http://192.168.43.212:8080/AsesoriasREST/REST/usuario</string>
+    <string name="alert_title">Aviso</string>
+    <string name="alert_message">Servicio no disponible en estos momentos.</string>
+    <string name="alert_positive">Reintentar</string>
+    <string name="alert_negative">Salir</string>
+</resources>
